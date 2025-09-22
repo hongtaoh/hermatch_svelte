@@ -163,6 +163,16 @@
 
 <main class="min-h-screen bg-gray-900 text-gray-100 p-4">
   <div class="max-w-6xl mx-auto space-y-4">
+    <!-- 标题 -->
+      <div class="text-center py-4">
+        <h1 class="text-2xl md:text-3xl font-extrabold text-red-400">
+          中国女性择偶数据实验室
+        </h1>
+        <p class="text-gray-400 mt-2 text-sm">
+          数据来源：<a href="https://github.com/hongtaoh/ChineseMenData" target="_blank" class="underline text-blue-400">ChineseMenData</a> ｜ 
+          源代码：<a href="https://github.com/hongtaoh/hermatch_svelte" target="_blank" class="underline text-blue-400">hermatch_svelte</a>
+        </p>
+    </div>
     <!-- 卡片 1 -->
     <div class="bg-gray-800 rounded-xl p-4 shadow">
       <p>
@@ -332,10 +342,5 @@
       </div>
 
     </div>
-  </div>
-  <!-- 数据与源码说明 -->
-  <div class="bg-gray-800 rounded-xl p-4 shadow text-sm text-gray-400 space-y-1 mt-6">
-    <p>数据来源：<a href="https://github.com/hongtaoh/ChineseMenData" target="_blank" class="text-blue-400 underline">https://github.com/hongtaoh/ChineseMenData</a></p>
-    <p>本 app 源代码：<a href="https://github.com/hongtaoh/hermatch_svelte" target="_blank" class="text-blue-400 underline">https://github.com/hongtaoh/hermatch_svelte</a></p>
   </div>
 </main>

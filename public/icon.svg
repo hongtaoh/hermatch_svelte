@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- 爱心 -->
+  <path d="M32 56s-4-3.6-12-10.8C12 38 4 30.4 4 20 4 11.2 11.2 4 20 4c5.2 0 9.6 2.4 12 6 2.4-3.6 6.8-6 12-6 8.8 0 16 7.2 16 16 0 10.4-8 18-16 25.2C36 52.4 32 56 32 56z" fill="#e63946"/>
+  <!-- 柱状图 -->
+  <rect x="18" y="28" width="4" height="12" fill="white"/>
+  <rect x="28" y="24" width="4" height="16" fill="white"/>
+  <rect x="38" y="20" width="4" height="20" fill="white"/>
+</svg>
