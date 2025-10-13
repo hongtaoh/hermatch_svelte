@@ -31,4 +31,4 @@
 
 我觉得更好的方法是在真实统计数据的基础上模拟出数据。我用了最新的权威统计数据，用条件概率的方法模拟出一百万中国男性的数据，涵盖各种常见的择偶要求。通过筛选条件，网站更新出符合要求的人数。
 
-如果没梯子看不了：[xxnuo](https://github.com/xxnuo) 做了一个国内可以访问的：https://hermatch.mcpport.com/，在此感谢。
+如果没梯子看不了：[xxnuo](https://github.com/xxnuo) 做了一个国内可以访问的：[https://hermatch.mcpport.com](https://hermatch.mcpport.com/)，在此感谢。
